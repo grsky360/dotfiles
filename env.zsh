@@ -1,12 +1,8 @@
-# Paths
-export MY_BINS="$HOME/Documents/bins/"
+# export ANDROID_PLATFORM_TOOLS="$HOME/Library/Android/sdk/platform-tools"
 
-export ANDROID_PLATFORM_TOOLS="$HOME/Library/Android/sdk/platform-tools"
+# export GOPATH="$HOME/.go"
 
-export GOPATH="$HOME/.go"
-
-export PATH=$GOPATH:$ANDROID_PLATFORM_TOOLS:$MY_BINS:$PATH
-
+# export PATH=$GOPATH:$ANDROID_PLATFORM_TOOLS:$MY_BINS:$PATH
 
 # HomeBrew
 export HOMEBREW_BREW_GIT_REMOTE="https://mirrors.ustc.edu.cn/brew.git"

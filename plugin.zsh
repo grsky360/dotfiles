@@ -27,7 +27,7 @@ zinit snippet OMZL::completion.zsh
 zinit snippet OMZP::extract
 
 # Better cd
-zi light skywind3000/z.lua
+# zi light skywind3000/z.lua
 
 # mise -> asdf
 zinit as="command" lucid from="gh-r" for \

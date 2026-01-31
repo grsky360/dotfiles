@@ -22,7 +22,7 @@ alias java_home='/usr/libexec/java_home'
 alias jdk='f() { export JAVA_HOME="$(/usr/libexec/java_home -v $1)" ; unset -f f; }; f'
 alias jdk8="jdk 1.8"
 alias jdk17="jdk 17"
-jdk 17
+# jdk 17
 
 # Docker
 alias dc="docker compose"
