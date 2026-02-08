@@ -26,3 +26,5 @@ jdk 17
 
 # Docker
 alias dc="docker compose"
+alias lazydocker="docker run --rm -it -v /var/run/docker.sock:/var/run/docker.sock lazyteam/lazydocker"
+alias lzd="docker run --rm -it -v /var/run/docker.sock:/var/run/docker.sock lazyteam/lazydocker"
